@@ -1,0 +1,24 @@
+h1{
+    padding: 20px;
+   background-color:rgb(221, 229, 238);
+  
+  }
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+body{
+   
+    background: linear-gradient(
+        to right,
+        pink 0%,
+        pink 50%,
+        lightblue 50%,
+        lightblue  100%
+    );
+
+}
